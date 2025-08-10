@@ -6,8 +6,7 @@ Landing page responsiva desenvolvida com **HTML5** e **CSS3**, apresentando info
 ---
 
 ## 🚀 Acesse o Projeto  
-🔗 [Clique aqui para visualizar](🔗 <a href="https://rid-221947-desafio01.netlify.app" target="_blank">Clique aqui para visualizar</a>
-)
+🔗 [Clique aqui para visualizar](<a href="https://rid-221947-desafio01.netlify.app" target="_blank">Clique aqui para visualizar</a>)
 
 ---
 
